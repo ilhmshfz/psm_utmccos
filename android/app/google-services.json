@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788922050053",
+    "project_id": "utmccos1",
+    "storage_bucket": "utmccos1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788922050053:android:613c89989b6bf829899e6c",
+        "android_client_info": {
+          "package_name": "com.utmccos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFxO76jyOLYRxmOXU24EqJVtsjEptcM0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
